@@ -1,0 +1,7 @@
+path: D:\Pertugasan\lah wes skripsi bjir\periapical-photo-caries-detection-using-deep-learning\dataset
+train: D:\Pertugasan\lah wes skripsi bjir\periapical-photo-caries-detection-using-deep-learning\dataset\dataset\images\train
+val: D:\Pertugasan\lah wes skripsi bjir\periapical-photo-caries-detection-using-deep-learning\dataset\dataset\images\val
+test: D:\Pertugasan\lah wes skripsi bjir\periapical-photo-caries-detection-using-deep-learning\dataset\dataset\images\test
+
+names:
+  0: tooth
