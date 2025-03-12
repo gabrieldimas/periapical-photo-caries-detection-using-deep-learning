@@ -1,3 +1,4 @@
+path: D:/Pertugasan/lah wes skripsi bjir/periapical-photo-caries-detection-using-deep-learning/segmented_teeth/dataset
 train: D:/Pertugasan/lah wes skripsi bjir/periapical-photo-caries-detection-using-deep-learning/segmented_teeth/dataset/train
 val: D:/Pertugasan/lah wes skripsi bjir/periapical-photo-caries-detection-using-deep-learning/segmented_teeth/dataset/valid
 test: D:/Pertugasan/lah wes skripsi bjir/periapical-photo-caries-detection-using-deep-learning/segmented_teeth/dataset/test
